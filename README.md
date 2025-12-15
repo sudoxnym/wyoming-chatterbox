@@ -96,3 +96,11 @@ pkill -f wyoming-chatterbox
 ## license
 
 mit
+
+---
+
+<div align="center">
+
+made by [sudoxnym](https://sudoxreboot.com) ⚡
+
+</div>
